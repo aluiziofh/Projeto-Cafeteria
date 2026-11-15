@@ -1,6 +1,6 @@
 # Manhattan Coffee House
 
-Uma página web de apresentação para a Manhattan Coffee House, com informações sobre a cafeteria, seus cafés, localização e horários de funcionamento. O projeto demonstra a criação de uma página estática com HTML e CSS e um visual inspirado em cafeterias.
+Uma página web de apresentação para a Manhattan Coffee House, com informações sobre a cafeteria, seus cafés, localização e horários de funcionamento. O projeto demonstra a criação de uma página estática com HTML e CSS e um visual inspirado em cafeterias...
 
 ![Imagem de destaque do projeto](img/parallax-imagem1.png)
 
